@@ -69,23 +69,17 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
+<img width="1341" height="1062" alt="image" src="https://github.com/user-attachments/assets/5f5bf7d6-0aa1-43b2-be1c-c8ed1bc35453" />
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1918" height="1077" alt="OPTI LAB 1" src="https://github.com/user-attachments/assets/b0933e58-6b35-47af-bde0-041dffaf52c3" />
+
 
 ---
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+The optical communication system experiment using OptiPerformer was successfully simulated and analyzed.
